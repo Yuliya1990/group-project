@@ -1,0 +1,29 @@
+.RightContent {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 50%;
+  margin-left: 50px;
+}
+.titleRight {
+  margin-top: 28px;
+  margin-bottom: 0;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+  font-size: 34px;
+  letter-spacing: 0.02em;
+  color: #33295d;
+}
+
+.textRight {
+  margin-top: 13px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  color: rgba(95, 90, 110, 1);
+  margin-bottom: 0;
+}
+
+.man {
+  position: relative;
+}

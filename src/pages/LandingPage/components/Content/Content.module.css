@@ -1,0 +1,18 @@
+.Content {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 100%;
+  width: 96%;
+  margin-top: 50px;
+}
+.plain {
+  position: absolute;
+  margin-top: -530px;
+  margin-left: -70px;
+}
+
+.stars {
+  position: absolute;
+  margin-top: 30px;
+}

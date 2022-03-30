@@ -1,0 +1,21 @@
+.shadowVert {
+  position: absolute;
+  z-index: -1;
+  top: 103px;
+  left: 950px;
+  width: 224px;
+  height: 764px;
+  background-color: rgba(242, 203, 196, 1);
+  filter: blur(90px);
+}
+
+.shadowHoriz {
+  position: absolute;
+  z-index: -1;
+  top: 641px;
+  left: 130px;
+  width: 997px;
+  height: 226px;
+  background-color: rgba(242, 203, 196, 1);
+  filter: blur(90px);
+}

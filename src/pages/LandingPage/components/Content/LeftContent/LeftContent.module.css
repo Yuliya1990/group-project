@@ -1,0 +1,72 @@
+.LeftContent {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  height: 100%;
+  width: 50%;
+}
+.round {
+  position: absolute;
+  width: 85px;
+  height: 85px;
+}
+.container {
+  line-height: 61px;
+  margin-left: 29px;
+  margin-top: 18px;
+}
+.titleLeft {
+  position: relative;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+  font-size: 47px;
+  letter-spacing: 0.02em;
+  color: #33295d;
+}
+.textLeft {
+  margin-top: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 17px;
+  line-height: 24px;
+  color: rgba(95, 90, 110, 1);
+  margin-bottom: 0;
+}
+.GetStartedButton {
+  text-decoration: none;
+  margin-top: 27px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 151px;
+  height: 48px;
+  background-color: #76b1a6;
+  border-radius: 8px;
+  margin-bottom: 0;
+  /* text */
+  color: #ffff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+}
+.arrow {
+  margin-left: 8px;
+}
+.inscription {
+  margin-top: 13px;
+  line-height: 18px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 11px;
+  letter-spacing: 0.02em;
+  color: #756b6d;
+}
+.woman {
+  position: relative;
+  margin-top: 48px;
+}
+.dottedLine {
+  position: absolute;
+  margin-left: 310px;
+  z-index: 0;
+}

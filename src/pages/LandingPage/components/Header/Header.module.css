@@ -1,0 +1,41 @@
+.Header {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  height: 70px;
+}
+
+.headerButtons {
+  display: flex;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+  letter-spacing: 0.02em;
+}
+
+.signIn {
+  text-decoration: none;
+  margin-right: 20px;
+  color: #5f5a6e;
+}
+
+.signUp {
+  display: flex;
+  text-decoration: none;
+  width: 134px;
+  height: 32px;
+  background: rgba(118, 177, 166, 1);
+  border-radius: 5px;
+  /* text */
+  justify-content: center;
+  align-items: center;
+  color: #ffff;
+  font-weight: bold;
+}
+
+.logo {
+  padding-right: 626px;
+  height: 32px;
+  width: 103px;
+}
